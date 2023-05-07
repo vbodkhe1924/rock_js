@@ -1,0 +1,39 @@
+body{
+    background-color: black ;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .title{
+    font-size: 35px;
+    font-weight: bolder;
+  }
+  .move-icon{
+    height: 55px;
+
+  }
+  .shape-button{
+    background-color: transparent;
+    border: 3px dotted white;
+    width: 100px;
+    height: 100px ;
+    border-radius: 90px;
+    margin-right: 20px;
+    cursor: pointer;
+    
+  }
+  .result{
+    font-size: 25px;
+    font-weight:bold;
+    margin-top:50px;
+
+  }
+  .score{
+    margin-top: 50px;
+
+  }
+  .reset-score-button{
+    background-color: aliceblue;
+    font-size: 17px;
+    padding: 10px 13px;
+    cursor: pointer;
+  }
